@@ -15,6 +15,7 @@ body{
     width:80px;
     background-color: red;
     border-radius:15px;
+    border:white;
     display: none;
     position: absolute;
 }
